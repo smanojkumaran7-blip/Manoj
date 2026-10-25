@@ -1,0 +1,11 @@
+{
+  "name": "OmniEvolve: Autonomous Recursive AI",
+  "description": "An autonomous self-improving cognitive system where the AI recursively diagnoses its limitations, synthesizes architectural upgrades, benchmarks itself, and evolves its own intelligence.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
